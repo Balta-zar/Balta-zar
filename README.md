@@ -52,6 +52,7 @@ I help companies design, automate, and deploy modern cloud platforms using AWS, 
 Hands-on AWS serverless course focused on building scalable cloud applications using modern AWS services and infrastructure patterns.
 
 🌐 https://consultingsaez.com/aws-serverless-course
+
 🎮 https://github.com/Balta-zar/tic-tac-toe-course
 
 ---
@@ -62,17 +63,13 @@ Hands-on AWS serverless course focused on building scalable cloud applications u
 
 **Faculty of Technical Sciences – University of Novi Sad** · Novi Sad, Serbia
 
-**Thesis:**  
-
-*A solution for the usage of artificial neural networks in the systems of internet of things*
+**Thesis:**  *A solution for the usage of artificial neural networks in the systems of internet of things*
 
 ### Bachelor with Honours in Mechatronics Engineering
 
 **Faculty of Technical Sciences – University of Novi Sad** · Novi Sad, Serbia
 
-**Thesis:**  
-
-*Machine vision in robotics*
+**Thesis:**  *Machine vision in robotics*
 
 ---
 
