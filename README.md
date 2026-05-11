@@ -56,6 +56,43 @@ Hands-on AWS serverless course focused on building scalable cloud applications u
 
 ---
 
+## 🎓 Education
+
+### MSc in Computer Engineering and Automation Control
+
+**Faculty of Technical Sciences – University of Novi Sad** · Novi Sad, Serbia
+
+**Thesis:**  
+
+*A solution for the usage of artificial neural networks in the systems of internet of things*
+
+### Bachelor with Honours in Mechatronics Engineering
+
+**Faculty of Technical Sciences – University of Novi Sad** · Novi Sad, Serbia
+
+**Thesis:**  
+
+*Machine vision in robotics*
+
+---
+
+## 📜 Additional Certifications
+
+### AWS Certified Solutions Architect – Associate *(expired)*
+
+Amazon Web Services
+https://www.credly.com/badges/0e788a0c-f1cc-4241-a8e2-9f87af927f7c/public_url
+
+### TA101
+
+ITAA – International Transactional Analysis Association
+
+### Soft Skills
+
+EESTEC – LC Novi Sad
+
+---
+
 ## 🌍 Website
 
 🌐 https://consultingsaez.com
