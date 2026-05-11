@@ -47,31 +47,6 @@ I help companies design, automate, and deploy modern cloud platforms using AWS, 
 
 ## 📌 Featured Projects
 
-### AWS Production Infrastructure
-Production-ready AWS infrastructure using:
-- Terraform modules
-- ECS/Fargate
-- RDS
-- CloudFront
-- S3 frontend hosting
-- GitHub Actions CI/CD
-- Environment separation (dev/prod)
-
-### Full-Stack Cloud Platform
-Modern cloud-native application with:
-- Next.js frontend
-- Kotlin backend
-- Dockerized services
-- Automated deployment pipeline
-- Monitoring & logging
-
-### Infrastructure Automation
-Reusable Terraform templates and automation scripts for scalable deployments and faster delivery.
-
----
-
-## 📌 Featured Projects
-
 ### AWS Serverless Course
 
 Hands-on AWS serverless course focused on building scalable cloud applications using modern AWS services and infrastructure patterns.
